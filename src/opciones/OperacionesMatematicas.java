@@ -1,4 +1,4 @@
-package opciones.operacionesmatematicas;
+package opciones;
 
 import menu.Menu;
 import javax.swing.*;

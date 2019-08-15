@@ -1,6 +1,6 @@
 package menu;
 
-import opciones.operacionesmatematicas.OperacionesMatematicas;
+import opciones.OperacionesMatematicas;
 
 import javax.swing.*;
 
