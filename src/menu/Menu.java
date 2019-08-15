@@ -5,11 +5,11 @@ import opciones.operacionesmatematicas.OperacionesMatematicas;
 import javax.swing.*;
 
 public class Menu extends JFrame{
-    private JPanel menu;
+    private JPanel menuprincipal;
     private JButton btnOperaciones;
 
     public Menu(){
-        add(menu);
+        add(menuprincipal);
         setTitle("Menu principal");
         setSize(500,600);
         btnOperaciones.addActionListener(e -> {
