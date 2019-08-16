@@ -1,16 +1,18 @@
 package menu;
 
+import static clases.constantes.MatematicasString.TITULO;
 import opciones.OperacionesMatematicas;
 
 import javax.swing.*;
+import java.awt.*;
 
-public class Menu extends JFrame{
+public class Menu extends Frame {
     private JPanel menuprincipal;
     private JButton btnOperaciones;
 
     public Menu(){
         add(menuprincipal);
-        setTitle("Menu principal");
+        setTitle(TITULO.getTexto());
         setSize(500,600);
         btnOperaciones.addActionListener(e -> {
                 OperacionesMatematicas operacionesMatematicas = new OperacionesMatematicas();

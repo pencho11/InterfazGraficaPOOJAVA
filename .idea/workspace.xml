@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18b87b60-e6ea-4f0e-bee6-5152ab703944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clases/Matematicas.java" afterDir="false" />
+    <list default="true" id="81ee8790-f6e4-4bf1-9b47-5d67e762edcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/clases/constantes/MatematicasString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Matematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Matematicas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/menu/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/opciones/operacionesmatematicas/OperacionesMatematicas.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/opciones/OperacionesMatematicas.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/opciones/operacionesmatematicas/OperacionesMatematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/opciones/OperacionesMatematicas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opciones/OperacionesMatematicas.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/opciones/OperacionesMatematicas.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opciones/OperacionesMatematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/opciones/OperacionesMatematicas.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,25 +24,55 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clases/Matematicas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="56" />
+              <folding>
+                <element signature="e#76#77#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clases/operaciones/MatematicasLogica.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/menu/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="238">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,22 +86,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/opciones/OperacionesMatematicas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-70">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
+                <element signature="e#1128#1129#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/clases/Matematicas.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clases/constantes/MatematicasEnteros.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clases/constantes/MatematicasString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding>
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +137,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -90,66 +148,96 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/Main.java" />
-        <option value="$PROJECT_DIR$/src/menu/Menu.java" />
-        <option value="$PROJECT_DIR$/src/opciones/operacionesmatematicas/OperacionesMatematicas.form" />
-        <option value="$PROJECT_DIR$/src/menu/Menu.form" />
-        <option value="$PROJECT_DIR$/src/opciones/operacionesmatematicas/OperacionesMatematicas.java" />
+        <option value="$PROJECT_DIR$/src/opciones/OperacionesMatematicas.form" />
+        <option value="$PROJECT_DIR$/src/clases/operaciones/MatematicasLogica.java" />
+        <option value="$PROJECT_DIR$/src/opciones/OperacionesMatematicas.java" />
+        <option value="$PROJECT_DIR$/src/clases/contantes/MatematicasString.java" />
+        <option value="$PROJECT_DIR$/src/clases/contantes/MatematicasEnteros.java" />
         <option value="$PROJECT_DIR$/src/clases/Matematicas.java" />
+        <option value="$PROJECT_DIR$/src/clases/constantes/MatematicasString.java" />
+        <option value="$PROJECT_DIR$/src/menu/Menu.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="width" value="800" />
-    <option name="height" value="860" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ejemplointerfazgraficaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
               <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ejemplointerfazgraficaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
               <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ejemplointerfazgraficaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
               <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="clases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ejemplointerfazgraficaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clases" type="462c0819:PsiDirectoryNode" />
+              <item name="constantes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clases" type="462c0819:PsiDirectoryNode" />
+              <item name="operaciones" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
               <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="menu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ejemplointerfazgraficaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
               <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="opciones" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interfazgrafica2java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CLASE 2 JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="opciones" type="462c0819:PsiDirectoryNode" />
+              <item name="OperacionesMatematicas" type="e9f4de52:FormNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,7 +254,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="ejemplointerfazgraficaPOO" />
+      <module name="CLASE 2 JAVA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
@@ -188,19 +276,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18b87b60-e6ea-4f0e-bee6-5152ab703944" name="Default Changelist" comment="" />
-      <created>1565826328932</created>
+      <changelist id="81ee8790-f6e4-4bf1-9b47-5d67e762edcf" name="Default Changelist" comment="" />
+      <created>1565911811296</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565826328932</updated>
+      <updated>1565911811296</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17181467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1904762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,10 +295,10 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32884097" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3045822" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -230,72 +317,92 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/event/ActionListener.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/JFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="566" column="29" selection-start-line="566" selection-start-column="29" selection-end-line="566" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="416" column="8" selection-start-line="416" selection-start-column="8" selection-end-line="416" selection-end-column="8" />
-          <folding>
-            <element signature="e#38925#38926#0" expanded="true" />
-            <element signature="e#38973#38974#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/opciones/OperacionesMatematicas.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/menu/Menu.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/menu/Menu.java">
+    <entry file="file://$PROJECT_DIR$/src/clases/constantes/MatematicasEnteros.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clases/constantes/MatematicasString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/opciones/OperacionesMatematicas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clases/Matematicas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="56" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clases/operaciones/MatematicasLogica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
